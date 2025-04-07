@@ -47,7 +47,6 @@ int main() {
     printf("x^2       | %.6f            | %.6f       | %.6e\n",approx2,exact2,fabs(approx2-exact2));
     printf("x^3       | %.6f            | %.6f       | %.6e\n",approx3,exact3,fabs(approx3-exact3));
     printf("x^4       | %.6f            | %.6f       | %.6e\n",approx4,exact4,fabs(approx4-exact4));
-
  return 0;
 }
 
