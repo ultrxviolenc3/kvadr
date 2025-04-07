@@ -3,7 +3,7 @@
 
 double poly0(double x) { 
 	return 1.0;
-	 }
+ }
 double poly1(double x) { 
 	return x; 
 	}
